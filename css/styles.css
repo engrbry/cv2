@@ -1,0 +1,126 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 6.625rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #222831;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #222831;
+  font-weight: bold;
+  padding: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #393E46;
+}
+
+hr{
+  border: dotted #EEEEEE 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.course:hover{
+  color: #222831;
+  font-weight: bold;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.top-container{
+  background-color: #B7C9E2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+  }
+
+.bottom-container{
+  background-color: #222831;
+}
+
+.profiles{
+  width: 15%;
+}
+
+.intro{
+  width: 40%;
+  margin: auto;
+}
+
+.nametitle{
+  margin-top: 0;
+  font-size: 2rem;
+  color: #393E46;
+}
+
+.nametitle-1{
+  color: #222831;
+}
+
+.bike-img{
+  width: 20%;
+  padding-bottom: 20px;
+}
+
+.course{
+  font-size: 1.3rem;
+  margin-bottom: 0;
+  color: #00ADB5;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.school{
+  margin-top: 0;
+  font-style: italic;
+}
+
+.tools{
+  width: 35%;
+  padding-bottom: 50px;
+}
+
+.hrs{
+  padding-bottom: 70px;
+}
+
+.contact{
+  color: #EEEEEE;
+  padding-top: 20px;
+}
+
+.footer-link{
+  color: #00ADB5;
+}
